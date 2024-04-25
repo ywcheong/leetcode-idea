@@ -1,12 +1,12 @@
 # remove-duplicates-from-sorted-array
-This is the step-by-step solution to solve the following problem in Leetcode.
+This is the step-by-step solution to solve the following problem on Leetcode.
 
 * Remove Duplicates from Sorted Array - *Top interview 150*
   * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
- To solve the problem, we need a two-pointer method. Since the given array is monotonically increasing array, we would not meet any identical element in any two non-adjacent position.
+ To solve the problem, we need a two-pointer method. Since the given array is a monotonically increasing array, we would not encounter any identical element in two non-adjacent positions.
  
- By acquiring an idea from this preperty, we can think that we could scan the whole array, using `read_pos`, and ignoring all the duplicative elements until:
+ By acquiring an idea from the preperty, we can think that we could scan the whole array using `read_pos`, and ignore all the duplicative elements until:
  * Reaching the end of the array : `next_read_pos < len(nums)`
  * Reaching non-duplicative elements : `nums[read_pos] == nums[next_read_pos]`
 
