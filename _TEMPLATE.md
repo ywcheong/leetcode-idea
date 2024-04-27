@@ -1,10 +1,10 @@
 # %%TITLE HERE
 This is the step-by-step solution to solve the following problem on Leetcode.
 
-* %%NAME HERE - *%%CHAPTER HERE*
+* %%NAME HERE - *Top Interview 150*
   * %%URL HERE
 
- To solve the problem, we need a %%METHOD HERE
+To solve the problem, we need a %%METHOD HERE
 
 %%DESCRIPTION HERE
 
