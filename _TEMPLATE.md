@@ -1,8 +1,8 @@
-# %%TITLE HERE
+# ***NAMEHERE
 This is the step-by-step solution to solve the following problem on Leetcode.
 
-* %%NAME HERE - *Top Interview 150*
-  * %%URL HERE
+* ***NAMEHERE - *Top Interview 150*
+  * https://leetcode.com/problems/***NAMEHERE
 
 To solve the problem, we need a %%METHOD HERE
 
